@@ -1,6 +1,6 @@
 # PhoneQAgent — Android/iOS Automation with Vision AI
 
-![alt text](firefox_wuZjocmz0X.png)
+<img width="1188" height="1730" alt="image" src="https://github.com/user-attachments/assets/48505f25-bc6d-4673-b61f-4e3c629972d0" />
 
 ## Overview
 
