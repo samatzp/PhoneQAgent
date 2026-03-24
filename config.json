@@ -1,0 +1,21 @@
+{
+  "platform": "android",
+  "device_id": "<add your device_id here>",
+  "screen_width": 1440,
+  "screen_height": 2960,
+  "screenshot_dir": "./screenshots",
+  "max_retries": 3,
+  "max_cycles": 15,
+  "loop_detection_threshold": 3,
+
+  "use_claude_api": false,
+  "claude_model": "claude-opus-4-6",
+  "anthropic_api_key": "",
+
+  "model_name": "Qwen/Qwen3-VL-8B-Instruct",
+  "use_flash_attention": true,
+  "temperature": 0.1,
+  "max_tokens": 512,
+  "step_delay": 1.5,
+  "enable_visual_debug": false
+}
